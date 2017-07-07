@@ -1,2 +1,2 @@
-node lab.js
+node server.js
 
